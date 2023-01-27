@@ -1,20 +1,34 @@
-# Lung_Cancer_Prediction
+# Lung Cancer Prediction
 This notebook uses Logistic Regression, Gaussian Naive Bayes and Decision Tree classification Algorithms to predict the level of lung camcer. It also visualizes some data.
-
+<br>
+<br>
 Some Plots might not be visible on Github. Please run this notebook using a notebook application.
+<br>
+<br>
 
-
-You need some librfaries to run this project.
-Please run:
+You need Python, pip and some libraries installed to run this.
+<br>
+To install necessary packages, please run:
+<br>
 
 $ pip install scikit-learn matplotlib seaborn pandas numpy plotly scipy sklearn
 
-
+<br>
+<br>
+If you want to run this project from the .py file, please run with ipython.
+<br>
+$ ipython lung-cancer-prediction.py
+<br>
+**Some Plots Might Not Be Visible in Ipython. Running This Project With A Notebook Application Like Jupyter Is Recommended.**
+<br>
 
 This notebook is also available on Kaggle.
-Visit: https://www.kaggle.com/code/mdsajidanamifti/cse366-project-san
+<br>
+Please Visit: https://www.kaggle.com/code/mdsajidanamifti/lung-cancer-prediction-and-visualization
 
+<br>
+<br>
 
 Any feedback is appreciated.
-
+<br><br>
 Thank You
