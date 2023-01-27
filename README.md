@@ -10,17 +10,19 @@ You need Python, pip and some libraries installed to run this.
 <br>
 To install necessary packages, please run:
 <br>
-
+```
 $ pip install scikit-learn matplotlib seaborn pandas numpy plotly scipy sklearn
-
+```
 <br>
 <br>
 If you want to run this project from the .py file, please run with ipython.
 <br>
+```
 $ ipython lung-cancer-prediction.py
+```
 <br>
 <br>
-<strong>Some Plots Might Not Be Visible in Ipython. Running This Project With A Notebook Application Like Jupyter Is Recommended.</strong>
+<strong>Some Plots Might Not Be Visible in Ipython. Running This Project With A Notebook Application Like Jupyter Is Recommended. VS Code can also run the notebook.</strong>
 <br>
 <br>
 
