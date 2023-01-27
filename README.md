@@ -19,7 +19,9 @@ If you want to run this project from the .py file, please run with ipython.
 <br>
 $ ipython lung-cancer-prediction.py
 <br>
+<br>
 <strong>Some Plots Might Not Be Visible in Ipython. Running This Project With A Notebook Application Like Jupyter Is Recommended.</strong>
+<br>
 <br>
 
 This notebook is also available on Kaggle.
